@@ -7,7 +7,7 @@ This project is a web application built with React and react-redux, featuring a 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Lusanda11/ecomStore
+git clone https://github.com/Lusanda11/ecommerce_shop
 ```
 
 2. Install dependencies:
